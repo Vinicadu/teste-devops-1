@@ -16,11 +16,11 @@ Serão necessários as seguintes ferramentas para executar esse exercício:
 
 ## Credenciais
 
-- user:  vinicius.monteiro
-- senha: xA330gA@
-- Console sign-in URL: https://010928223552.signin.aws.amazon.com/console
-- Access key: AKIAQFC27OVAAFHXL5U7
-- Secret access key:  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
+- user:  
+- senha: 
+- Console sign-in URL: 
+- Access key: 
+- Secret access key:  
 
 # Projeto
 
